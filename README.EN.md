@@ -11,7 +11,7 @@ Below are the actual trading results; I earned over 30 USDC in less than a day.
 
 ---
 ## Trial Use
-### Currently only supports Linux, preferably Ubuntu 24-bit
+### Currently only supports Linux, preferably Ubuntu 24
 1. Download the trial package from the release: poly_1h_bot.zip
 2. Place it on a cloud server, ensuring your region is allowed to trade by PolyMarket.
 3. Configure the first few blank parameters in the .env file. These parameters are exported from the PolyMarket website.
