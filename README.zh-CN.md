@@ -8,8 +8,9 @@
 
 ### TG联系方式：[@polyboy123](https://t.me/polyboy123)
 
-下面是实盘收益，不到一天就赚了三十多USDC
-<img width="1306" height="838" alt="image" src="https://github.com/user-attachments/assets/d7b33c69-fac7-4b58-a302-9fabd884a563" />
+<img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/20fb35dc-cae9-49ed-8cfd-adb99be22b00" />
+
+
 
 
 
