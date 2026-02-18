@@ -6,8 +6,6 @@
 
 ---
 
-### TG联系方式：[@polyboy123](https://t.me/polyboy123)
-
 <img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/20fb35dc-cae9-49ed-8cfd-adb99be22b00" />
 
 
@@ -190,3 +188,4 @@ src/
 ## 免责声明
 
 本机器人对接真实市场与资金，请自行承担使用风险。使用前请充分理解配置项、风险限额及 Polymarket 相关条款。
+### TG联系方式：[@polyboy123](https://t.me/polyboy123)
