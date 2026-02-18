@@ -28,8 +28,8 @@ A Rust arbitrage bot for [Polymarket](https://polymarket.com) crypto “Up or Do
 1. Download the trial package from the release: poly_1h_bot.zip
 2. Place it on a cloud server, ensuring your region is allowed to trade by PolyMarket.
 3. Configure the first few blank parameters in the .env file. These parameters are exported from the PolyMarket website.
-4. Run in the foreground: `./poly_1h_bot`
-5. Run in the background: `nohup ./poly_1h_bot > /dev/null 2>&1 &`
+4. Run in the foreground: `./poly_1hour_bot `
+5. Run in the background: `nohup ./poly_1hour_bot  > /dev/null 2>&1 &`
 
 ## Installation
 
