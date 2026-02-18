@@ -31,8 +31,8 @@
 1. 下载release中的试用包：poly_1h_bot.zip
 2. 放到云服务器上面，需要确保所在地域能够被polymarket允许交易
 3. 配置好.env中前面的几个空白参数，参数由polymarket官网导出
-4. 前台运行：`./poly_1h_bot`
-5. 后台运行：`nohup ./poly_1h_bot > /dev/null 2>&1 &`
+4. 前台运行：`./poly_1hour_bot `
+5. 后台运行：`nohup ./poly_1hour_bot  > /dev/null 2>&1 &`
 
 ## 安装
 
