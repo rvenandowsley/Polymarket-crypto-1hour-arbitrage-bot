@@ -6,8 +6,6 @@ A Rust arbitrage bot for [Polymarket](https://polymarket.com) crypto “Up or Do
 
 ---
 
-### Telegram contact information: [@polyboy123](https://t.me/polyboy123)
-
 <img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/7ea3f755-5afa-4e4c-939d-6532e76cdac0" />
 
 
@@ -187,3 +185,4 @@ src/
 ## Disclaimer
 
 This bot interacts with real markets and real funds. Use at your own risk. Ensure you understand the config, risk limits, and Polymarket’s terms before running.
+### Telegram contact information: [@polyboy123](https://t.me/polyboy123)
